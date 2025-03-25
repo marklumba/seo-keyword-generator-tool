@@ -74,7 +74,8 @@ pip install customtkinter pytrends requests
 ![API Settings](screenshots/SEO_APIsetting.png)
 
 ### Keyword Results
-![Keyword Results](screenshots/SEO_Generator_Ford_Raptor_Accessories.png)
+![Keyword Results](screenshots/SEO_Generator_1.png)
+![Keyword Results](screenshots/SEO_Generator_2.png)
 
 ## Contributing
 
