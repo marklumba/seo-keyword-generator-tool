@@ -1,2 +1,4 @@
 node_modules/
 *.log
+main.py
+main_2.py
